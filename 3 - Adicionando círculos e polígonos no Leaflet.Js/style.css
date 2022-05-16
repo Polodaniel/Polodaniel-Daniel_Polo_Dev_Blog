@@ -1,0 +1,19 @@
+body
+{
+  margin: 10px;
+}
+
+.mapa{
+    height: 600px;
+    width: 700px;
+    border: 1px solid black;
+}
+
+.input-width{
+  width: 200px;
+}
+
+.buttom-width{
+  width: 200px;
+  margin-top: 10px;
+}
